@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👨‍💻, I'm Sanket</h1>
-<h3 align="center">Full Stack(MERN) Developer | Cloud Enthusiast</h3>
+<h3 align="center">Full Stack(MERN) Developer | Cloud Enthusiast | WEB 3</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abhishek-dhanke-226354216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-dhanke-226354216" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sanket-shivale-4215951b1/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="abhishek-dhanke-226354216" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
